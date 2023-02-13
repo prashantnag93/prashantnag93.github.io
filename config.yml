@@ -5,8 +5,8 @@ theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: Sup bruh 😎
-    Content: This is something shows in your homepage.
+    Title: Namaste Ji from Prashant Kumar Nag 😎
+    Content: This is First Messege in my Blog.
 
   socialIcons: # optional
     - name: "github"
