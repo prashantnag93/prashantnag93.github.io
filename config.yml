@@ -5,7 +5,7 @@ theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: Namaste Ji from Prashant Kumar Nag 😎
+    Title: Namaste Ji 😎
     Content: This is First Messege in my Blog.
 
   socialIcons: # optional
