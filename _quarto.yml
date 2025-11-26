@@ -1,0 +1,56 @@
+project:
+  type: website
+
+website:
+  title: "Prashant Kumar Nag"
+  open-graph: true
+  twitter-card:
+    creator: "@prashantnag93"
+
+  navbar:
+    pinned: true
+
+    background: "#234460"
+
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv/index.qmd
+        text: CV
+      - href: ResearchInfuser/index.qmd
+        text: ResearchInfuser Blog
+      - href: publications/index.qmd
+        text: Publications
+      - href: talks/index.qmd
+        text: Talks
+      - href: softwares/index.qmd
+        text: Software Suit
+
+  page-footer:
+    left: "© 2025, Prashant Kumar Nag <a rel='me' href='https://github.com/prashantnag93'></a>"
+    right:
+      - icon: github
+        href: https://github.com/prashantnag93
+    background: "#234460"
+
+date-format: "D MMMM YYYY"
+freeze: auto
+
+
+
+format:
+  html:
+    theme:
+      - default
+      - styles.scss
+    # css: styles.css
+    include-in-header: header.html
+    grid:
+      body-width: 900px
+    toc: false
+    code-link: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai
+
