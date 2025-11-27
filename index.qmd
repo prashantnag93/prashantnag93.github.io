@@ -13,6 +13,7 @@ about:
       href: https://twitter.com/prashantnag93
     - icon: youtube
       href: https://www.youtube.com/@ResearchInfuser
+comments: false
 ---
 
 ::: about-link-text
