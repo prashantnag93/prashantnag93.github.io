@@ -33,6 +33,10 @@ website:
         href: https://github.com/prashantnag93
     background: "#234460"
 
+comments:
+  giscus:
+    repo: prashantnag93/prashantnag93.github.io
+
 date-format: "D MMMM YYYY"
 freeze: auto
 
