@@ -6,11 +6,19 @@ website:
   open-graph: true
   twitter-card:
     creator: "@prashantnag93"
-
+  
+  search: 
+    location: navbar
+    type: overlay
+  
   navbar:
     pinned: true
 
     background: "#234460"
+    
+    tools:
+      - icon: rss
+        href: index.xml
 
     left:
       - href: index.qmd
