@@ -30,6 +30,7 @@ listing:
 page-layout: full
 include-back-link: false
 toc-location: right
+comments: false
 ---
 
 My research spans artificial intelligence, deep learning, affective computing, and healthcare informatics. I study emotion detection and cognitive appraisal in text, and I focus on how AI systems interpret human emotions in real-world healthcare and human-centered contexts. I also work on explainable AI and dataset engineering, particularly developing structured emotion annotations and transparent evaluation methods. {{< ai blank-just-to-add-ai-dependency-to-this-page >}}

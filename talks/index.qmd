@@ -35,6 +35,7 @@ toc: true
 toc-location: right
 toc-title: Year
 date-format: "MMMM D, YYYY"
+comments: false
 ---
 
 This page contains the detail of various workshops, talks, lectures, and presentations I've given.
