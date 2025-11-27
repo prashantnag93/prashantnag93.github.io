@@ -30,59 +30,71 @@ In a digital age where tools define the craftsman, my choice of software is a re
 **Python Ecosystem**:
 
 -   *Python 3.x*: Core programming language
--   *Conda / Micromamba*: Environment and package management
--   *Hydra Configuration Framework*: Experiment configuration management
--   *DVC*: Dataset version control and pipeline automation
-
-**Development Environments**:
-
 -   *Jupyter Notebook*: Interactive computational environment
 -   *Google Colab*: Cloud-based Python development
--   *VS Code*: Primary code editor with extensions
 
-**Model Visualization & Interpretation**:
+**Configuration & Versioning**:
 
+-   *Hydra Configuration Framework*: Experiment configuration management
+-   *DVC*: Data version control and pipeline automation
 -   *TensorBoard*: Visualization for training metrics and model graphs
 
-## **Research & Writing**
+## **Development Environment**
 
-**Literature Review & Management**:
+**Code Editors & IDEs**:
+
+-   *VS Code*: Primary IDE with extensions
+-   *RStudio*: Integrated development environment for R
+-   *Emacs - Doom Emacs*: Advanced text editing
+-   *Notepad++*: Quick text editing
+
+**Environment Management**:
+
+-   *Conda / Micromamba*: Package and environment management
+-   *Lightning-Hydra template*: Structured ML experiment template
+
+**Terminal & Shell**:
+
+-   *Windows Terminal*: Modern terminal experience
+-   *PowerShell*: Shell scripting on Windows
+-   *WSL2 (Ubuntu)*: Linux subsystem on Windows
+
+## **Research & Academic Writing**
+
+**Literature Management**:
 
 -   *Zotero + BetterBibTeX*: Reference management and BibTeX/CSL JSON generation
 -   *Google Scholar*: Research discovery and citation tracking
 -   *ORCID / Scopus / ResearchGate*: Academic profiles and networking
 
-**Writing & Publishing Tools**:
+**Document Preparation**:
 
 -   *Quarto*: Primary tool for presentations, thesis, SLR, and documentation
 -   *LaTeX*: ManitThesis.cls, Manit Lab Manual, and custom templates
--   *rmarkdown*: R-based document generation
--   *pagedown*: HTML résumé generation
 -   *Pandoc*: Universal document converter
 -   *Markdown*: Everyday documentation
--   *Obsidian*: Knowledge management and note-taking
--   *Emacs - Doom Emacs*: Advanced text editing
--   *Grammarly*: Grammar and style checking
+-   *tinytex / pdflatex*: PDF generation
 
-**Diagram & Graphics Creation**:
+**Writing Tools**:
+
+-   *VS Code*: Primary writing and editing environment
+-   *Obsidian*: Knowledge management and note-taking
+
+**Diagramming & Graphics**:
 
 -   *TikZ*: LaTeX-based diagrams
 -   *Mermaid.js*: Flowcharts and diagrams in Markdown
 -   *Draw.io*: Diagramming tool
+-   *Inkscape*: Vector graphics and technical diagrams
 
-## **R & Statistical Workflow**
+## **Statistical Computing with R**
 
-**Core R Environment**:
+**Core R Tools**:
 
 -   *R*: Statistical computing and data analysis
 -   *tidyverse*: dplyr, tidyr, ggplot2, purrr, and more
--   *Quarto*: R-based publishing system
 -   *rmarkdown*: Dynamic document generation
-
-**Publishing & Typography**:
-
 -   *pagedown*: HTML résumé and paged documents
--   *tinytex / pdflatex*: PDF generation
 
 **Use Cases**:
 
@@ -90,7 +102,7 @@ In a digital age where tools define the craftsman, my choice of software is a re
 -   CV generation (Excel → R → pagedown pipeline)
 -   Statistical analysis and visualization
 
-## **Graphics & Visualization**
+## **Data Visualization & Graphics**
 
 **Data Visualization**:
 
@@ -100,46 +112,32 @@ In a digital age where tools define the craftsman, my choice of software is a re
 -   *Plotly*: Interactive graphing
 -   *Tableau*: Business intelligence and dashboards
 
-**Graphic Design & Illustration**:
+**Image & Design Tools**:
 
--   *Inkscape*: Vector graphics editor
 -   *GIMP*: Raster graphics and photo editing
 -   *LibreOffice Draw*: Diagrams and sketches
--   *Microsoft PowerPoint*: Traditional presentations
+-   *Microsoft PowerPoint*: Presentations and visual content
 
-## **HPC & System Tools**
+## **High-Performance Computing**
 
-**High-Performance Computing**:
+**Cluster Computing**:
 
--   *PBS Job Scheduler*: qsub, qstat for cluster computing
--   *WSL2 (Ubuntu)*: Linux subsystem on Windows
+-   *PBS Job Scheduler*: qsub, qstat for batch job management
 -   *SSH / SCP*: Remote server access and file transfer
 
-**System Monitoring**:
+**Monitoring Tools**:
 
 -   *htop*: Process monitoring
 -   *nvidia-smi*: GPU monitoring and management
 
-**Environment Management**:
-
--   *Conda / Micromamba*: Package and environment management
--   *Lightning-Hydra template*: Structured ML experiment template
-
-## **Version Control & Collaboration**
+## **Version Control & DevOps**
 
 -   *Git*: Distributed version control
 -   *GitHub*: Code hosting and collaboration
--   *GitHub Actions*: CI/CD automation (planned integration)
--   *DVC + Git*: Dataset and model versioning
+-   *GitHub Actions*: CI/CD automation
+-   *DVC*: Dataset and model versioning
 
-## **Productivity & System Setup**
-
-**Development Environment**:
-
--   *VS Code*: Primary IDE with extensions
--   *Windows Terminal*: Modern terminal experience
--   *PowerShell*: Shell scripting on Windows
--   *Notepad++*: Quick text editing
+## **Productivity & System Management**
 
 **System Management**:
 
@@ -151,43 +149,30 @@ In a digital age where tools define the craftsman, my choice of software is a re
 -   *Raindrop*: Bookmark management
 -   *Microsoft Edge*: Primary web browser
 -   *Espanso*: Text expansion tool
--   *Slack / Teams*: Communication when required
+-   *Slack / Teams*: Team communication
 
 **Cloud Storage**:
 
--   *Google Drive*: Certificate storage and file sharing
+-   *Google Drive*: File sharing and backup
 
-## **Content Creation & Academic Outreach**
+## **Content Creation & Outreach**
 
-**Video & Media Production**:
+**Video Production**:
 
 -   *OBS Studio*: Screen recording and streaming
 -   *Shotcut*: Video editing
 -   *YouTube Studio*: ResearchInfuser channel management
 
-**Academic Platforms**:
-
--   *LinkedIn*: Professional networking
--   *ResearchGate*: Research sharing and networking
--   *Google Scholar*: Publication tracking
-
-## **Office & General Purpose**
+## **Office Suites**
 
 -   *LibreOffice Suite*: Open-source office productivity
--   *MS Office Suite*: Microsoft Word, Excel, PowerPoint (when required)
--   *MS Word*: Document collaboration
+-   *MS Office Suite*: Word, Excel, PowerPoint (when required)
 
-## **Domain-Specific Tools & Extensions**
+## **Automation & Scripting**
 
-**Automation Scripts**:
-
--   *Automatic Timetable Generation*: Google Sheet AppScript
+-   *Google AppScript*: Automated timetable generation
 -   *Excel → R → pagedown*: Automated CV generation pipeline
-
-**Web Technologies**:
-
--   *HTML / CSS*: Web content creation
--   *JavaScript*: Basic scripting
+-   *HTML / CSS / JavaScript*: Web content and automation
 
 ## **Open Source Projects**
 
@@ -221,15 +206,6 @@ Quarto document template for Pre-PhD Pro-Thesis formatting with automated LaTeX 
 </td>
 </tr>
 </table>
-
-### Research & Academic Tools
-
-All tools emphasize reproducibility, automation, and open science principles:
-
-- **Publications Management**: Automated BibTeX processing and citation management
-- **CV Generation**: Excel → R → pagedown automated pipeline for dynamic curriculum vitae
-- **SLR Automation**: R-based systematic literature review workflows
-- **Timetable Generation**: Google AppScript for automated course scheduling
 
 ### Contributing
 
