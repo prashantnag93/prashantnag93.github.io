@@ -210,7 +210,7 @@ I maintain and contribute to open-source projects that support academic writing 
 
 <table>
 <tr>
-<td width='15%'><a href='https://github.com/ResearchInfuser/manit-thesis'><img src='https://github.com/ResearchInfuser/manit-thesis/raw/main/thesis_template.jpg' width='120px' style='vertical-align:middle; box-shadow:0 4px 8px rgba(0,0,0,0.2);'></a></td>
+<td width='15%'><a href='https://github.com/ResearchInfuser/manit-thesis'><img src='https://github.com/ResearchInfuser/manit-thesis/raw/main/manit-thesis.jpg' width='120px' style='vertical-align:middle; box-shadow:0 4px 8px rgba(0,0,0,0.2);'></a></td>
 <td width='75%'>
 
 #### [MANIT Thesis Quarto Extension (manit-thesis)](https://github.com/ResearchInfuser/manit-thesis)
@@ -220,7 +220,7 @@ A Quarto extension for fully reproducible MANIT-style thesis formatting, providi
 </tr>
 
 <tr>
-<td><a href='https://github.com/ResearchInfuser/manit-pre-thesis'><img src='https://github.com/ResearchInfuser/manit-pre-thesis/raw/main/pre_thesis_template.jpg' width='120px' style='vertical-align:middle; box-shadow:0 4px 8px rgba(0,0,0,0.2);'></a></td>
+<td><a href='https://github.com/ResearchInfuser/manit-pre-thesis'><img src='https://github.com/ResearchInfuser/manit-pre-thesis/raw/main/manit-pre-thesis.jpg' width='120px' style='vertical-align:middle; box-shadow:0 4px 8px rgba(0,0,0,0.2);'></a></td>
 <td>
 
 #### [MANIT Pre-Thesis Quarto Extension (manit-pre-thesis)](https://github.com/ResearchInfuser/manit-pre-thesis)
