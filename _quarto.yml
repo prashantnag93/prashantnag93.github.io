@@ -24,7 +24,7 @@ website:
       - href: talks/index.qmd
         text: Talks
       - href: softwares/index.qmd
-        text: Software Suit
+        text: Software Suite
 
   page-footer:
     left: "© 2025, Prashant Kumar Nag <a rel='me' href='https://github.com/prashantnag93'></a>"

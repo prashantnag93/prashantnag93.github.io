@@ -1,7 +1,7 @@
 ---
 title: Software Suite
 date: 2025-11-26
-description: Welcome to my toolkit! Over the years, I've fine-tuned my workflow using a range of software. This page provides insight into the tools that power my projects, tasks, and daily routines.
+description: Welcome to my toolkit! Over the years, I've fine‑tuned my workflow using a range of software. This page provides insight into the tools that power my projects, tasks, and daily routines.
 title-block-banner: "#234460"
 published-title: Last updated
 toc: true
@@ -18,206 +18,169 @@ engine: knitr
 
 In the digital age where tools shape the way we think and work, my software choices reflect precision, curiosity, and a focus on reproducible research. Every project I undertake is supported by a curated suite of tools that accelerate productivity and improve reliability. This page documents the ecosystem that powers my research, development, writing, teaching, and content creation.
 
-# Machine Learning & AI Development
+## Machine Learning & AI Development
 
-## Deep Learning Frameworks
+### Deep Learning Frameworks
+- [**PyTorch**](https://pytorch.org/) — Primary framework for deep learning research.
+- [**TensorFlow**](https://www.tensorflow.org/) — Alternative ML framework.
+- [**PyTorch Lightning**](https://lightning.ai/docs/pytorch/stable/) — Structured training framework.
+- [**Hugging Face Transformers**](https://huggingface.co/transformers/) — NLP and transformer models.
 
-- [**PyTorch**](https://pytorch.org/) – Primary framework for deep learning research and model development.
-- [**TensorFlow**](https://www.tensorflow.org/) – Alternative framework for machine learning projects.
-- [**PyTorch Lightning**](https://lightning.ai/docs/pytorch/stable/) – High-level framework for structured, scalable training on top of PyTorch.
-- [**Hugging Face Transformers**](https://huggingface.co/transformers/) – Library for state-of-the-art transformer-based NLP models.
+### Python Ecosystem
+- [**Python 3.x**](https://www.python.org/) — Core programming language.
+- [**Jupyter Notebook**](https://jupyter.org/) — Interactive experiments.
+- [**Google Colab**](https://colab.research.google.com/) — Cloud-based GPU environment.
 
-## Python Ecosystem
+### Configuration & Versioning
+- [**Hydra**](https://hydra.cc/) — Experiment configuration management.
+- [**Data Version Control (DVC)**](https://dvc.org/) — Data and model versioning; pipeline automation.
+- [**TensorBoard**](https://www.tensorflow.org/tensorboard) — Training visualization.
 
-- [**Python 3.x**](https://www.python.org/) – Core programming language for ML, scripting, and automation.
-- [**Jupyter Notebook**](https://jupyter.org/) – Interactive computational environment for experiments and prototypes.
-- [**Google Colab**](https://colab.research.google.com/) – Cloud-based environment for Python and GPU-accelerated ML.
+## Development Environment
 
-## Experiment Configuration & Versioning
+### Code Editors & IDEs
+- [**VS Code**](https://code.visualstudio.com/) — Primary development environment.
+- [**RStudio**](https://posit.co/products/open-source/rstudio/) — IDE for R.
+- [**Doom Emacs**](https://github.com/doomemacs/doomemacs) — Advanced text editing.
+- [**Notepad++**](https://notepad-plus-plus.org/) — Quick text editing.
 
-- [**Hydra**](https://hydra.cc/) – Configuration framework for managing complex experiment setups.
-- [**Data Version Control (DVC)**](https://dvc.org/) – Data version control and pipeline automation for ML projects.
-- [**TensorBoard**](https://www.tensorflow.org/tensorboard) – Visualization toolkit for training metrics and model graphs.
+### Environment Management
+- [**Conda**](https://docs.conda.io/) / [**Micromamba**](https://mamba.readthedocs.io/) — Package and environment management.
+- [**Lightning-Hydra Template**](https://github.com/ashleve/lightning-hydra-template) — Structured ML experimentation template.
 
-# Development Environment
+### Terminal & Shell
+- [**Windows Terminal**](https://learn.microsoft.com/windows/terminal/) — Modern terminal environment.
+- [**PowerShell**](https://learn.microsoft.com/powershell/) — Windows scripting.
+- [**WSL2**](https://learn.microsoft.com/windows/wsl/) — Linux subsystem (Ubuntu) on Windows.
 
-## Code Editors & IDEs
+## Research & Academic Writing
 
-- [**Visual Studio Code (VS Code)**](https://code.visualstudio.com/) – Primary editor for coding, writing, and note-taking.
-- [**RStudio**](https://posit.co/products/open-source/rstudio/) – Integrated development environment for R.
-- [**Doom Emacs**](https://github.com/doomemacs/doomemacs) – Highly configurable Emacs configuration for advanced text editing.
-- [**Notepad++**](https://notepad-plus-plus.org/) – Lightweight editor for quick text editing on Windows.
+### Literature Management
+- [**Zotero**](https://www.zotero.org/) + [**BetterBibTeX**](https://retorque.re/zotero-better-bibtex/) — Citation and reference management.
+- [**Google Scholar**](https://scholar.google.com/) — Literature search.
+- [**ORCID**](https://orcid.org/) / [**Scopus**](https://www.scopus.com/) / [**ResearchGate**](https://www.researchgate.net/) — Academic profiles.
 
-## Environment & Project Management
+### Document Preparation
+- [**Quarto**](https://quarto.org/) — Presentations, documentation, thesis, SLR writing.
+- [**LaTeX**](https://www.latex-project.org/) — Technical typesetting (including custom MANIT classes).
+- [**Pandoc**](https://pandoc.org/) — Universal document converter.
+- **Markdown** — Lightweight documentation.
+- [**TinyTeX**](https://yihui.org/tinytex/) — Minimal TeX distribution.
 
-- [**Conda**](https://docs.conda.io/) / [**Micromamba**](https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html) – Environment and package management for Python and data science.
-- [**Lightning-Hydra Template**](https://github.com/ashleve/lightning-hydra-template) – Structured ML project template combining PyTorch Lightning, Hydra, and best practices.
+### Writing Tools
+- [**VS Code**](https://code.visualstudio.com/) — Primary writing environment.
+- [**Obsidian**](https://obsidian.md/) — Knowledge management.
 
-## Terminal & Shell
+### Diagramming & Graphics
+- [**TikZ**](https://ctan.org/pkg/pgf) — LaTeX diagrams.
+- [**Mermaid.js**](https://mermaid.js.org/) — Flowcharts and diagrams.
+- [**Draw.io (diagrams.net)**](https://www.diagrams.net/) — Diagramming.
+- [**Inkscape**](https://inkscape.org/) — Vector illustrations.
 
-- [**Windows Terminal**](https://learn.microsoft.com/windows/terminal/) – Modern terminal solution on Windows.
-- [**PowerShell**](https://learn.microsoft.com/powershell/) – Scripting and task automation on Windows.
-- [**Windows Subsystem for Linux (WSL2)**](https://learn.microsoft.com/windows/wsl/) – Linux environment on Windows, primarily using Ubuntu.
+## Statistical Computing with R
 
-# Research & Academic Writing
+### Core R Tools
+- [**R**](https://www.r-project.org/) — Statistical computing.
+- [**tidyverse**](https://www.tidyverse.org/) — Data transformation and visualization.
+- [**rmarkdown**](https://rmarkdown.rstudio.com/) — Dynamic documents.
+- [**pagedown**](https://github.com/rstudio/pagedown) — HTML CV and paged documents.
 
-## Literature Management
+### Use Cases
+- SLR automation and data extraction.
+- CV generation (Excel → R → pagedown).
+- Statistical analysis and visualization.
 
-- [**Zotero**](https://www.zotero.org/) + [**BetterBibTeX**](https://retorque.re/zotero-better-bibtex/) – Reference management, citation keys, and BibTeX/CSL JSON export.
-- [**Google Scholar**](https://scholar.google.com/) – Literature search and citation tracking.
-- [**ORCID**](https://orcid.org/), [**Scopus**](https://www.scopus.com/), [**ResearchGate**](https://www.researchgate.net/) – Researcher profiles and academic networking.
+## Data Visualization & Graphics
 
-## Document Preparation
+### Data Visualization
+- [**Matplotlib**](https://matplotlib.org/) — Python plotting.
+- [**Seaborn**](https://seaborn.pydata.org/) — Statistical visualization.
+- [**ggplot2**](https://ggplot2.tidyverse.org/) — R Grammar of Graphics.
+- [**Plotly**](https://plotly.com/) — Interactive plots.
+- [**Tableau**](https://www.tableau.com/) — BI dashboards.
 
-- [**Quarto**](https://quarto.org/) – Primary tool for presentations, reports, thesis chapters, and documentation.
-- [**LaTeX**](https://www.latex-project.org/) – Typesetting for technical documents, including custom classes like `ManitThesis.cls` and MANIT Lab Manual.
-- [**Pandoc**](https://pandoc.org/) – Universal document converter behind many of my workflows.
-- **Markdown** – Lightweight markup language for notes and documentation.
-- [**TinyTeX**](https://yihui.org/tinytex/) / `pdflatex` – Minimal TeX distribution and PDF generation tooling.
+### Image & Design Tools
+- [**GIMP**](https://www.gimp.org/) — Raster graphics.
+- [**LibreOffice Draw**](https://www.libreoffice.org/discover/draw/) — Diagrams.
+- [**Microsoft PowerPoint**](https://www.microsoft.com/microsoft-365/powerpoint) — Slide design.
 
-## Writing & Note-Taking
+## High-Performance Computing
 
-- [**VS Code**](https://code.visualstudio.com/) – Primary environment for writing Quarto/Markdown documents.
-- [**Obsidian**](https://obsidian.md/) – Knowledge management and personal note-taking using Markdown.
+### Cluster Computing
+- **PBS Job Scheduler** — Batch jobs (`qsub`, `qstat`).
+- **SSH / SCP** — Remote access and file transfer.
 
-## Diagramming & Graphics for Papers
+### Monitoring Tools
+- `htop` — Process monitoring.
+- `nvidia-smi` — GPU monitoring.
 
-- [**TikZ/PGF**](https://ctan.org/pkg/pgf) – LaTeX-based diagrams for high-quality figures.
-- [**Mermaid**](https://mermaid.js.org/) – Text-based diagrams and flowcharts embedded in Markdown/Quarto.
-- [**draw.io (diagrams.net)**](https://www.diagrams.net/) – Browser-based diagramming tool.
-- [**Inkscape**](https://inkscape.org/) – Vector graphics editor for technical diagrams and figures.
+## Version Control & DevOps
 
-# Statistical Computing with R
+- [**Git**](https://git-scm.com/) — Version control.
+- [**GitHub**](https://github.com/) — Code hosting.
+- [**GitHub Actions**](https://github.com/features/actions) — CI/CD workflows.
+- [**DVC**](https://dvc.org/) — Dataset/model versioning.
 
-## Core R Stack
+## Productivity & System Management
 
-- [**R**](https://www.r-project.org/) – Statistical computing and data analysis.
-- [**tidyverse**](https://www.tidyverse.org/) – Collection of R packages (e.g., `dplyr`, `ggplot2`, `tidyr`, `purrr`) for data science.
-- [**rmarkdown**](https://rmarkdown.rstudio.com/) – Dynamic documents using R and Markdown.
-- [**pagedown**](https://github.com/rstudio/pagedown) – HTML-based paged documents, including academic CVs.
+### System Management
+- [**Winget**](https://learn.microsoft.com/windows/package-manager/) — Windows package manager.
+- [**chezmoi**](https://www.chezmoi.io/) — Dotfile syncing across systems.
 
-## Typical Use Cases
+### Productivity Tools
+- [**Raindrop.io**](https://raindrop.io/) — Bookmark manager.
+- [**Microsoft Edge**](https://www.microsoft.com/edge) — Primary browser.
+- [**Espanso**](https://espanso.org/) — Text expansion.
+- [**Slack**](https://slack.com/) / [**Teams**](https://www.microsoft.com/microsoft-teams) — Communication tools.
 
-- Automation for Systematic Literature Reviews (SLRs).
-- CV generation via an Excel → R → pagedown pipeline.
-- Statistical analysis, visualization, and reproducible reports.
+### Cloud Storage
+- [**Google Drive**](https://www.google.com/drive/) — Backup and storage.
 
-# Data Visualization & Graphics
+## Content Creation & Outreach
 
-## Data Visualization Libraries
+### Video Production
+- [**OBS Studio**](https://obsproject.com/) — Screen recording.
+- [**Shotcut**](https://shotcut.org/) — Video editing.
+- [**YouTube Studio**](https://studio.youtube.com/) — Channel management (ResearchInfuser).
 
-- [**Matplotlib**](https://matplotlib.org/) – Core plotting library for Python.
-- [**Seaborn**](https://seaborn.pydata.org/) – Statistical data visualization built on top of Matplotlib.
-- [**ggplot2**](https://ggplot2.tidyverse.org/) – Grammar of graphics implementation in R.
-- [**Plotly**](https://plotly.com/) – Interactive graphing library for Python and R.
-- [**Tableau**](https://www.tableau.com/) – Business intelligence and dashboarding.
+## Office Suites
 
-## Image & Design Tools
+- [**LibreOffice Suite**](https://www.libreoffice.org/) — Open-source office tools.
+- [**Microsoft Office Suite**](https://www.microsoft.com/microsoft-365) — Word, Excel, PowerPoint.
 
-- [**GIMP**](https://www.gimp.org/) – Raster graphics and photo editing.
-- [**LibreOffice Draw**](https://www.libreoffice.org/discover/draw/) – Diagrams and sketches.
-- [**Microsoft PowerPoint**](https://www.microsoft.com/microsoft-365/powerpoint) – Slide design and visual content creation.
+## Automation & Scripting
 
-# High-Performance Computing
+- [**Google Apps Script**](https://developers.google.com/apps-script) — Timetable automation and workflows.
+- **Excel → R → pagedown** — Automated CV pipeline.
+- **HTML / CSS / JavaScript** — Website enhancements and automations.
 
-## Cluster & Remote Computing
+## Open Source Projects
 
-- **Portable Batch System (PBS)** – Job scheduling on HPC clusters using commands like `qsub` and `qstat`.
-- **SSH / SCP** – Remote server access and secure file transfer from the terminal.
-
-## Monitoring & Hardware Tools
-
-- `htop` – Interactive process and resource monitor in terminal.
-- `nvidia-smi` – GPU monitoring and management for NVIDIA GPUs.
-
-# Version Control & DevOps
-
-- [**Git**](https://git-scm.com/) – Distributed version control system.
-- [**GitHub**](https://github.com/) – Code hosting, issues, and collaboration.
-- [**GitHub Actions**](https://github.com/features/actions) – CI/CD automation for testing, deployment, and Quarto publishing.
-- [**Data Version Control (DVC)**](https://dvc.org/) – Dataset and model versioning, experiment tracking, and pipelines.
-
-# Productivity & System Management
-
-## System & Configuration Management
-
-- [**Windows Package Manager (winget)**](https://learn.microsoft.com/windows/package-manager/) – Package manager for installing and updating software on Windows.
-- [**chezmoi**](https://www.chezmoi.io/) – Cross-machine dotfiles management for consistent development environments.
-
-## Productivity & Everyday Tools
-
-- [**Raindrop.io**](https://raindrop.io/) – Bookmark and web resource manager.
-- [**Microsoft Edge**](https://www.microsoft.com/edge) – Primary web browser.
-- [**Espanso**](https://espanso.org/) – Cross-platform text expansion.
-- [**Slack**](https://slack.com/) / [**Microsoft Teams**](https://www.microsoft.com/microsoft-teams) – Communication and collaboration platforms.
-
-## Cloud Storage
-
-- [**Google Drive**](https://www.google.com/drive/) – Cloud storage, backup, and file sharing.
-
-# Content Creation & Outreach
-
-## Video & Screen Content
-
-- [**OBS Studio**](https://obsproject.com/) – Screen recording and live streaming.
-- [**Shotcut**](https://shotcut.org/) – Open-source video editor.
-- [**YouTube Studio**](https://studio.youtube.com/) – Channel and content management for my *ResearchInfuser* YouTube channel.
-
-# Office Suites
-
-- [**LibreOffice**](https://www.libreoffice.org/) – Open-source office productivity suite.
-- [**Microsoft 365 / Office Suite**](https://www.microsoft.com/microsoft-365) – Word, Excel, and PowerPoint (used when required).
-
-# Automation & Scripting
-
-- [**Google Apps Script**](https://developers.google.com/apps-script) – Automation for Google Workspace, including timetable generation and workflows.
-- **Excel → R → pagedown pipeline** – Automated academic CV and document generation.
-- **HTML / CSS / JavaScript** – Web content, UI tweaks, and lightweight automations.
-
-# Open Source Projects
-
-I actively develop and maintain several open-source projects that support reproducible research and academic workflows. All projects are freely available on GitHub.
-
-## Quarto Extensions
+### Quarto Extensions
 
 <table>
 <tr>
-<td width='15%'><a href='https://github.com/ResearchInfuser/manit-thesis'><img src='https://github.com/ResearchInfuser/manit-thesis/raw/main/thesis_template.jpg' width='120px' style='vertical-align:middle; box-shadow: 0 4px 8px rgba(0,0,0,0.2);' alt='MANIT Thesis Template'></a></td>
+<td width='15%'><a href='https://github.com/ResearchInfuser/manit-thesis'><img src='https://github.com/ResearchInfuser/manit-thesis/raw/main/thesis_template.jpg' width='120px' style='vertical-align:middle; box-shadow:0 4px 8px rgba(0,0,0,0.2);'></a></td>
 <td width='75%'>
 
 #### [MANIT Thesis Quarto Extension (manit-thesis)](https://github.com/ResearchInfuser/manit-thesis)
-
-Quarto extension that applies MANIT-approved thesis formatting through a reusable template for fully reproducible dissertation authoring. Supports LaTeX, R, and Pandoc for professional academic document generation.
-
-[GitHub Repository](https://github.com/ResearchInfuser/manit-thesis){.badge .badge-green}
+A Quarto extension that applies MANIT-approved thesis formatting using a reusable LaTeX template for reproducible dissertation authoring.
 
 </td>
 </tr>
+
 <tr>
-<td><a href='https://github.com/ResearchInfuser/manit-pre-thesis'><img src='https://github.com/ResearchInfuser/manit-pre-thesis/raw/main/pre_thesis_template.jpg' width='120px' style='vertical-align:middle; box-shadow: 0 4px 8px rgba(0,0,0,0.2);' alt='MANIT Pre-Thesis Template'></a></td>
+<td><a href='https://github.com/ResearchInfuser/manit-pre-thesis'><img src='https://github.com/ResearchInfuser/manit-pre-thesis/raw/main/pre_thesis_template.jpg' width='120px' style='vertical-align:middle; box-shadow:0 4px 8px rgba(0,0,0,0.2);'></a></td>
 <td>
 
 #### [MANIT Pre-Thesis Quarto Extension (manit-pre-thesis)](https://github.com/ResearchInfuser/manit-pre-thesis)
-
-Quarto document template for Pre-PhD pre-thesis formatting with automated LaTeX styling, compliant with MANIT pre-thesis submission guidelines.
-
-[GitHub Repository](https://github.com/ResearchInfuser/manit-pre-thesis){.badge .badge-green}
+Quarto template for MANIT-compliant pre-thesis formatting with automated LaTeX styling.
 
 </td>
 </tr>
 </table>
 
-## Contributing
+## Hardware
 
-These projects are open source and contributions are welcome. You can:
+- I use a **15″ Dell Alienware M15 R6** with an **Intel® Core™ i7 (11th Gen)**, **16 GB DDR4 RAM**, and **NVIDIA® RTX™ 3070 (8GB)** for deep learning, research, and content creation.
 
-- Report issues or suggest improvements on GitHub.
-- Submit pull requests with enhancements.
-- Fork and adapt templates for your institution's requirements.
-- Share your use cases and feedback to help improve future releases.
-
-Most projects are licensed under permissive open-source licenses (typically MIT or GPL) to ensure reusability and benefit to the wider research community.
-
-# Hardware
-
-- I primarily work on a **15" Dell Alienware M15 R6** with an **11th generation Intel® Core™ i7**, **16 GB DDR4 RAM**, and an **NVIDIA® GeForce RTX™ 3070 8 GB** GPU, providing a balanced setup for deep learning experiments, development, and content creation.
