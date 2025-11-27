@@ -233,100 +233,163 @@
   {
     "objectID": "softwares/index.html",
     "href": "softwares/index.html",
-    "title": "Software Suit",
+    "title": "Software Suite",
     "section": "",
-    "text": "In a digital age where tools define the craftsman, my choice of software is a reflection of my passion, precision, and pursuit of excellence. Every project I undertake is empowered by a curated suite of tools that amplify my skills and sharpen my ideas. Dive in and discover the digital palette I use to paint my professional canvas."
+    "text": "In the digital age where tools shape the way we think and work, my software choices reflect precision, curiosity, and a focus on reproducible research. Every project I undertake is supported by a curated suite of tools that accelerate productivity and improve reliability. This page documents the ecosystem that powers my research, development, writing, teaching, and content creation."
   },
   {
-    "objectID": "softwares/index.html#machine-learning-ai-development",
-    "href": "softwares/index.html#machine-learning-ai-development",
-    "title": "Software Suit",
-    "section": "Machine Learning & AI Development",
-    "text": "Machine Learning & AI Development\nDeep Learning Frameworks:\n\nPyTorch: Primary framework for deep learning research and model development\nTensorFlow: Alternative framework for machine learning projects\nLightning: PyTorch Lightning for structured ML code\nHugging Face Transformers: For NLP and transformer models\n\nPython Ecosystem:\n\nPython 3.x: Core programming language\nJupyter Notebook: Interactive computational environment\nGoogle Colab: Cloud-based Python development\n\nConfiguration & Versioning:\n\nHydra Configuration Framework: Experiment configuration management\nDVC: Data version control and pipeline automation\nTensorBoard: Visualization for training metrics and model graphs"
+    "objectID": "softwares/index.html#deep-learning-frameworks",
+    "href": "softwares/index.html#deep-learning-frameworks",
+    "title": "Software Suite",
+    "section": "Deep Learning Frameworks",
+    "text": "Deep Learning Frameworks\n\nPyTorch – Primary framework for deep learning research and model development.\nTensorFlow – Alternative framework for machine learning projects.\nPyTorch Lightning – High-level framework for structured, scalable training on top of PyTorch.\nHugging Face Transformers – Library for state-of-the-art transformer-based NLP models."
   },
   {
-    "objectID": "softwares/index.html#development-environment",
-    "href": "softwares/index.html#development-environment",
-    "title": "Software Suit",
-    "section": "Development Environment",
-    "text": "Development Environment\nCode Editors & IDEs:\n\nVS Code: Primary IDE with extensions\nRStudio: Integrated development environment for R\nEmacs - Doom Emacs: Advanced text editing\nNotepad++: Quick text editing\n\nEnvironment Management:\n\nConda / Micromamba: Package and environment management\nLightning-Hydra template: Structured ML experiment template\n\nTerminal & Shell:\n\nWindows Terminal: Modern terminal experience\nPowerShell: Shell scripting on Windows\nWSL2 (Ubuntu): Linux subsystem on Windows"
+    "objectID": "softwares/index.html#python-ecosystem",
+    "href": "softwares/index.html#python-ecosystem",
+    "title": "Software Suite",
+    "section": "Python Ecosystem",
+    "text": "Python Ecosystem\n\nPython 3.x – Core programming language for ML, scripting, and automation.\nJupyter Notebook – Interactive computational environment for experiments and prototypes.\nGoogle Colab – Cloud-based environment for Python and GPU-accelerated ML."
   },
   {
-    "objectID": "softwares/index.html#research-academic-writing",
-    "href": "softwares/index.html#research-academic-writing",
-    "title": "Software Suit",
-    "section": "Research & Academic Writing",
-    "text": "Research & Academic Writing\nLiterature Management:\n\nZotero + BetterBibTeX: Reference management and BibTeX/CSL JSON generation\nGoogle Scholar: Research discovery and citation tracking\nORCID / Scopus / ResearchGate: Academic profiles and networking\n\nDocument Preparation:\n\nQuarto: Primary tool for presentations, thesis, SLR, and documentation\nLaTeX: ManitThesis.cls, Manit Lab Manual, and custom templates\nPandoc: Universal document converter\nMarkdown: Everyday documentation\ntinytex / pdflatex: PDF generation\n\nWriting Tools:\n\nVS Code: Primary writing and editing environment\nObsidian: Knowledge management and note-taking\n\nDiagramming & Graphics:\n\nTikZ: LaTeX-based diagrams\nMermaid.js: Flowcharts and diagrams in Markdown\nDraw.io: Diagramming tool\nInkscape: Vector graphics and technical diagrams"
+    "objectID": "softwares/index.html#experiment-configuration-versioning",
+    "href": "softwares/index.html#experiment-configuration-versioning",
+    "title": "Software Suite",
+    "section": "Experiment Configuration & Versioning",
+    "text": "Experiment Configuration & Versioning\n\nHydra – Configuration framework for managing complex experiment setups.\nData Version Control (DVC) – Data version control and pipeline automation for ML projects.\nTensorBoard – Visualization toolkit for training metrics and model graphs."
   },
   {
-    "objectID": "softwares/index.html#statistical-computing-with-r",
-    "href": "softwares/index.html#statistical-computing-with-r",
-    "title": "Software Suit",
-    "section": "Statistical Computing with R",
-    "text": "Statistical Computing with R\nCore R Tools:\n\nR: Statistical computing and data analysis\ntidyverse: dplyr, tidyr, ggplot2, purrr, and more\nrmarkdown: Dynamic document generation\npagedown: HTML résumé and paged documents\n\nUse Cases:\n\nSLR (Systematic Literature Review) automation\nCV generation (Excel → R → pagedown pipeline)\nStatistical analysis and visualization"
+    "objectID": "softwares/index.html#code-editors-ides",
+    "href": "softwares/index.html#code-editors-ides",
+    "title": "Software Suite",
+    "section": "Code Editors & IDEs",
+    "text": "Code Editors & IDEs\n\nVisual Studio Code (VS Code) – Primary editor for coding, writing, and note-taking.\nRStudio – Integrated development environment for R.\nDoom Emacs – Highly configurable Emacs configuration for advanced text editing.\nNotepad++ – Lightweight editor for quick text editing on Windows."
   },
   {
-    "objectID": "softwares/index.html#data-visualization-graphics",
-    "href": "softwares/index.html#data-visualization-graphics",
-    "title": "Software Suit",
-    "section": "Data Visualization & Graphics",
-    "text": "Data Visualization & Graphics\nData Visualization:\n\nMatplotlib: Static, animated, and interactive visualizations in Python\nSeaborn: Statistical data visualization\nggplot2: Grammar of graphics in R\nPlotly: Interactive graphing\nTableau: Business intelligence and dashboards\n\nImage & Design Tools:\n\nGIMP: Raster graphics and photo editing\nLibreOffice Draw: Diagrams and sketches\nMicrosoft PowerPoint: Presentations and visual content"
+    "objectID": "softwares/index.html#environment-project-management",
+    "href": "softwares/index.html#environment-project-management",
+    "title": "Software Suite",
+    "section": "Environment & Project Management",
+    "text": "Environment & Project Management\n\nConda / Micromamba – Environment and package management for Python and data science.\nLightning-Hydra Template – Structured ML project template combining PyTorch Lightning, Hydra, and best practices."
   },
   {
-    "objectID": "softwares/index.html#high-performance-computing",
-    "href": "softwares/index.html#high-performance-computing",
-    "title": "Software Suit",
-    "section": "High-Performance Computing",
-    "text": "High-Performance Computing\nCluster Computing:\n\nPBS Job Scheduler: qsub, qstat for batch job management\nSSH / SCP: Remote server access and file transfer\n\nMonitoring Tools:\n\nhtop: Process monitoring\nnvidia-smi: GPU monitoring and management"
+    "objectID": "softwares/index.html#terminal-shell",
+    "href": "softwares/index.html#terminal-shell",
+    "title": "Software Suite",
+    "section": "Terminal & Shell",
+    "text": "Terminal & Shell\n\nWindows Terminal – Modern terminal solution on Windows.\nPowerShell – Scripting and task automation on Windows.\nWindows Subsystem for Linux (WSL2) – Linux environment on Windows, primarily using Ubuntu."
   },
   {
-    "objectID": "softwares/index.html#version-control-devops",
-    "href": "softwares/index.html#version-control-devops",
-    "title": "Software Suit",
-    "section": "Version Control & DevOps",
-    "text": "Version Control & DevOps\n\nGit: Distributed version control\nGitHub: Code hosting and collaboration\nGitHub Actions: CI/CD automation\nDVC: Dataset and model versioning"
+    "objectID": "softwares/index.html#literature-management",
+    "href": "softwares/index.html#literature-management",
+    "title": "Software Suite",
+    "section": "Literature Management",
+    "text": "Literature Management\n\nZotero + BetterBibTeX – Reference management, citation keys, and BibTeX/CSL JSON export.\nGoogle Scholar – Literature search and citation tracking.\nORCID, Scopus, ResearchGate – Researcher profiles and academic networking."
   },
   {
-    "objectID": "softwares/index.html#productivity-system-management",
-    "href": "softwares/index.html#productivity-system-management",
-    "title": "Software Suit",
-    "section": "Productivity & System Management",
-    "text": "Productivity & System Management\nSystem Management:\n\nWinget: Windows package manager\nchezmoi: Dotfile management across systems\n\nProductivity Tools:\n\nRaindrop: Bookmark management\nMicrosoft Edge: Primary web browser\nEspanso: Text expansion tool\nSlack / Teams: Team communication\n\nCloud Storage:\n\nGoogle Drive: File sharing and backup"
+    "objectID": "softwares/index.html#document-preparation",
+    "href": "softwares/index.html#document-preparation",
+    "title": "Software Suite",
+    "section": "Document Preparation",
+    "text": "Document Preparation\n\nQuarto – Primary tool for presentations, reports, thesis chapters, and documentation.\nLaTeX – Typesetting for technical documents, including custom classes like ManitThesis.cls and MANIT Lab Manual.\nPandoc – Universal document converter behind many of my workflows.\nMarkdown – Lightweight markup language for notes and documentation.\nTinyTeX / pdflatex – Minimal TeX distribution and PDF generation tooling."
   },
   {
-    "objectID": "softwares/index.html#content-creation-outreach",
-    "href": "softwares/index.html#content-creation-outreach",
-    "title": "Software Suit",
-    "section": "Content Creation & Outreach",
-    "text": "Content Creation & Outreach\nVideo Production:\n\nOBS Studio: Screen recording and streaming\nShotcut: Video editing\nYouTube Studio: ResearchInfuser channel management"
+    "objectID": "softwares/index.html#writing-note-taking",
+    "href": "softwares/index.html#writing-note-taking",
+    "title": "Software Suite",
+    "section": "Writing & Note-Taking",
+    "text": "Writing & Note-Taking\n\nVS Code – Primary environment for writing Quarto/Markdown documents.\nObsidian – Knowledge management and personal note-taking using Markdown."
   },
   {
-    "objectID": "softwares/index.html#office-suites",
-    "href": "softwares/index.html#office-suites",
-    "title": "Software Suit",
-    "section": "Office Suites",
-    "text": "Office Suites\n\nLibreOffice Suite: Open-source office productivity\nMS Office Suite: Word, Excel, PowerPoint (when required)"
+    "objectID": "softwares/index.html#diagramming-graphics-for-papers",
+    "href": "softwares/index.html#diagramming-graphics-for-papers",
+    "title": "Software Suite",
+    "section": "Diagramming & Graphics for Papers",
+    "text": "Diagramming & Graphics for Papers\n\nTikZ/PGF – LaTeX-based diagrams for high-quality figures.\nMermaid – Text-based diagrams and flowcharts embedded in Markdown/Quarto.\ndraw.io (diagrams.net) – Browser-based diagramming tool.\nInkscape – Vector graphics editor for technical diagrams and figures."
   },
   {
-    "objectID": "softwares/index.html#automation-scripting",
-    "href": "softwares/index.html#automation-scripting",
-    "title": "Software Suit",
-    "section": "Automation & Scripting",
-    "text": "Automation & Scripting\n\nGoogle AppScript: Automated timetable generation\nExcel → R → pagedown: Automated CV generation pipeline\nHTML / CSS / JavaScript: Web content and automation"
+    "objectID": "softwares/index.html#core-r-stack",
+    "href": "softwares/index.html#core-r-stack",
+    "title": "Software Suite",
+    "section": "Core R Stack",
+    "text": "Core R Stack\n\nR – Statistical computing and data analysis.\ntidyverse – Collection of R packages (e.g., dplyr, ggplot2, tidyr, purrr) for data science.\nrmarkdown – Dynamic documents using R and Markdown.\npagedown – HTML-based paged documents, including academic CVs."
   },
   {
-    "objectID": "softwares/index.html#open-source-projects",
-    "href": "softwares/index.html#open-source-projects",
-    "title": "Software Suit",
-    "section": "Open Source Projects",
-    "text": "Open Source Projects\nI actively develop and maintain several open-source projects that support reproducible research and academic workflows. All projects are freely available on GitHub.\n\nQuarto Extensions\n\n\n\n\n\n\n\nMANIT Thesis Quarto Extension (manit-thesis)\nQuarto extension that applies MANIT-approved thesis formatting through a reusable template for fully reproducible dissertation authoring. Supports LaTeX, R, and Pandoc for professional academic document generation.\n GitHub\n\n\n\n\n\n\n\n\n\nMANIT Pre-Thesis Quarto Extension (manit-pre-thesis)\nQuarto document template for Pre-PhD Pro-Thesis formatting with automated LaTeX styling, compliant with MANIT pre-thesis submission guidelines.\n GitHub"
+    "objectID": "softwares/index.html#typical-use-cases",
+    "href": "softwares/index.html#typical-use-cases",
+    "title": "Software Suite",
+    "section": "Typical Use Cases",
+    "text": "Typical Use Cases\n\nAutomation for Systematic Literature Reviews (SLRs).\nCV generation via an Excel → R → pagedown pipeline.\nStatistical analysis, visualization, and reproducible reports."
   },
   {
-    "objectID": "softwares/index.html#hardware",
-    "href": "softwares/index.html#hardware",
-    "title": "Software Suit",
-    "section": "Hardware",
-    "text": "Hardware\n\nI use a 15″ Dell Alienware M15 R6, 11th generation Intel (R) Core(TM) i7, 16 GB DDR4 memory with NVIDIA(R) GeForce RTX(TM) 3070 8GB."
+    "objectID": "softwares/index.html#data-visualization-libraries",
+    "href": "softwares/index.html#data-visualization-libraries",
+    "title": "Software Suite",
+    "section": "Data Visualization Libraries",
+    "text": "Data Visualization Libraries\n\nMatplotlib – Core plotting library for Python.\nSeaborn – Statistical data visualization built on top of Matplotlib.\nggplot2 – Grammar of graphics implementation in R.\nPlotly – Interactive graphing library for Python and R.\nTableau – Business intelligence and dashboarding."
+  },
+  {
+    "objectID": "softwares/index.html#image-design-tools",
+    "href": "softwares/index.html#image-design-tools",
+    "title": "Software Suite",
+    "section": "Image & Design Tools",
+    "text": "Image & Design Tools\n\nGIMP – Raster graphics and photo editing.\nLibreOffice Draw – Diagrams and sketches.\nMicrosoft PowerPoint – Slide design and visual content creation."
+  },
+  {
+    "objectID": "softwares/index.html#cluster-remote-computing",
+    "href": "softwares/index.html#cluster-remote-computing",
+    "title": "Software Suite",
+    "section": "Cluster & Remote Computing",
+    "text": "Cluster & Remote Computing\n\nPortable Batch System (PBS) – Job scheduling on HPC clusters using commands like qsub and qstat.\nSSH / SCP – Remote server access and secure file transfer from the terminal."
+  },
+  {
+    "objectID": "softwares/index.html#monitoring-hardware-tools",
+    "href": "softwares/index.html#monitoring-hardware-tools",
+    "title": "Software Suite",
+    "section": "Monitoring & Hardware Tools",
+    "text": "Monitoring & Hardware Tools\n\nhtop – Interactive process and resource monitor in terminal.\nnvidia-smi – GPU monitoring and management for NVIDIA GPUs."
+  },
+  {
+    "objectID": "softwares/index.html#system-configuration-management",
+    "href": "softwares/index.html#system-configuration-management",
+    "title": "Software Suite",
+    "section": "System & Configuration Management",
+    "text": "System & Configuration Management\n\nWindows Package Manager (winget) – Package manager for installing and updating software on Windows.\nchezmoi – Cross-machine dotfiles management for consistent development environments."
+  },
+  {
+    "objectID": "softwares/index.html#productivity-everyday-tools",
+    "href": "softwares/index.html#productivity-everyday-tools",
+    "title": "Software Suite",
+    "section": "Productivity & Everyday Tools",
+    "text": "Productivity & Everyday Tools\n\nRaindrop.io – Bookmark and web resource manager.\nMicrosoft Edge – Primary web browser.\nEspanso – Cross-platform text expansion.\nSlack / Microsoft Teams – Communication and collaboration platforms."
+  },
+  {
+    "objectID": "softwares/index.html#cloud-storage",
+    "href": "softwares/index.html#cloud-storage",
+    "title": "Software Suite",
+    "section": "Cloud Storage",
+    "text": "Cloud Storage\n\nGoogle Drive – Cloud storage, backup, and file sharing."
+  },
+  {
+    "objectID": "softwares/index.html#video-screen-content",
+    "href": "softwares/index.html#video-screen-content",
+    "title": "Software Suite",
+    "section": "Video & Screen Content",
+    "text": "Video & Screen Content\n\nOBS Studio – Screen recording and live streaming.\nShotcut – Open-source video editor.\nYouTube Studio – Channel and content management for my ResearchInfuser YouTube channel."
+  },
+  {
+    "objectID": "softwares/index.html#quarto-extensions",
+    "href": "softwares/index.html#quarto-extensions",
+    "title": "Software Suite",
+    "section": "Quarto Extensions",
+    "text": "Quarto Extensions\n\n\n\n\n\n\n\nMANIT Thesis Quarto Extension (manit-thesis)\nQuarto extension that applies MANIT-approved thesis formatting through a reusable template for fully reproducible dissertation authoring. Supports LaTeX, R, and Pandoc for professional academic document generation.\nGitHub Repository\n\n\n\n\n\n\n\n\n\nMANIT Pre-Thesis Quarto Extension (manit-pre-thesis)\nQuarto document template for Pre-PhD pre-thesis formatting with automated LaTeX styling, compliant with MANIT pre-thesis submission guidelines.\nGitHub Repository"
+  },
+  {
+    "objectID": "softwares/index.html#contributing",
+    "href": "softwares/index.html#contributing",
+    "title": "Software Suite",
+    "section": "Contributing",
+    "text": "Contributing\nThese projects are open source and contributions are welcome. You can:\n\nReport issues or suggest improvements on GitHub.\nSubmit pull requests with enhancements.\nFork and adapt templates for your institution’s requirements.\nShare your use cases and feedback to help improve future releases.\n\nMost projects are licensed under permissive open-source licenses (typically MIT or GPL) to ensure reusability and benefit to the wider research community."
   },
   {
     "objectID": "publications/conferences/Healthcare-SLR-2024/index.html",
