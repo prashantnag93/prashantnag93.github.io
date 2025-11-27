@@ -4,17 +4,10 @@
     "items": []
   },
   {
-    "listing": "/ResearchInfuser/index.html",
-    "items": [
-      "/ResearchInfuser/2023/10/18/Hello World/index.html"
-    ]
-  },
-  {
     "listing": "/publications/index.html",
     "items": [
       "/publications/articles/IEEE-Access-2025/index.html",
       "/publications/articles/IJACSA-2024/index.html",
-      "/publications/articles/CRD-2024/index.html",
       "/publications/articles/MTAP-2023/index.html",
       "/publications/articles/TechRxiv-2024-Systematic/index.html",
       "/publications/articles/TechRxiv-2024-Expanding/index.html",
@@ -25,6 +18,12 @@
       "/publications/conferences/AIR-2021/index.html",
       "/publications/conferences/AIR-2021-BiDAF/index.html",
       "/publications/chapters/Scilab BookBank 2023/index.html"
+    ]
+  },
+  {
+    "listing": "/ResearchInfuser/index.html",
+    "items": [
+      "/ResearchInfuser/2023/10/18/Hello World/index.html"
     ]
   }
 ]
